@@ -1,0 +1,11 @@
+# Environments
+.venv/
+
+
+# Secrets
+.env
+
+# Misc
+__pycache__/
+temp/
+Docs/
